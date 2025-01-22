@@ -40,31 +40,28 @@
       "group": "Overview",
       "pages": [
         "overview/architecture",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "overview/Key Features",
+        "overview/Solutions and Use Case",
+        "overview/Security and Cryptography",
+        "overview/Ping Points",
+        "overview/How to Contribute"
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Help Center",
       "pages": [
-        "api-reference/introduction"
+        "Help-Center/FAQ"
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Help Center",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "Help-Center/Support"
       ]
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify"
+    "x": "https://x.com/pingnetwork_io",
+    "Discord": "https://discord.gg/pingnetwork"
   }
 }
