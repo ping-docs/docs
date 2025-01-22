@@ -16,7 +16,8 @@
       "group": "Introduction",
       "pages": [
         "what-is-ping",
-        "quickstart"
+        "quickstart",
+        "development"
       ]
     },
     {
@@ -38,8 +39,14 @@
       ]
     }
   ],
-  "footerSocials": {
-    "x": "https://x.com/pingnetwork_io",
-    "Discord": "https://discord.gg/pingnetwork"
-  }
+  "footerSocials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/pingnetwork_io"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/pingnetwork"
+    }
+  ]
 }
