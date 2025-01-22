@@ -23,12 +23,12 @@
     {
       "group": "Overview",
       "pages": [
-        "overview/architecture",
-        "overview/Key Features",
-        "overview/Solutions and Use Case",
-        "overview/Security and Cryptography",
-        "overview/Ping Points",
-        "overview/How to Contribute"
+        "overview/Architecture",
+        "overview/KeyFeatures",
+        "overview/SolutionsandUseCase",
+        "overview/SecurityandCryptography",
+        "overview/PingPoints",
+        "overview/HowtoContribute"
       ]
     },
     {
