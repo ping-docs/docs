@@ -39,14 +39,14 @@
       ]
     }
   ],
-  "footerSocials": [
-    {
-      "name": "twitter",
+  "footerSocials": {
+    "twitter": {
+      "type": "twitter",
       "url": "https://x.com/pingnetwork_io"
     },
-    {
-      "name": "discord",
+    "discord": {
+      "type": "discord",
       "url": "https://discord.gg/pingnetwork"
     }
-  ]
+  }
 }
