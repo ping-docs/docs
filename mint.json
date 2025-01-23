@@ -13,7 +13,7 @@
   },
   "navigation": [
     {
-      "tab": "Introduction",
+      "group": "Introduction",
       "pages": [
         "what-is-ping",
         "quickstart",
@@ -21,18 +21,18 @@
       ]
     },
     {
-      "tab": "Overview",
+      "group": "Overview",
       "pages": [
         "overview/architecture",
-        "overview/Key Features",
-        "overview/Solutions and Use Case",
-        "overview/Security and Cryptography",
-        "overview/Ping Points",
-        "overview/How to Contribute"
+        "overview/KeyFeatures",
+        "overview/SolutionsandUseCase",
+        "overview/SecurityandCryptography",
+        "overview/PingPoints",
+        "overview/HowtoContribute"
       ]
     },
     {
-      "tab": "Help Center",
+      "group": "Help Center",
       "pages": [
         "Help-Center/FAQ",
         "Help-Center/Support"
