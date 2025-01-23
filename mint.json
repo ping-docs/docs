@@ -23,7 +23,7 @@
     {
       "group": "Overview",
       "pages": [
-        "Overview/architecture",
+        "Overview/Architecture",
         "Overview/KeyFeatures",
         "Overview/SolutionsandUseCase",
         "Overview/SecurityandCryptography",
