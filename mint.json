@@ -7,9 +7,9 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-   "primary": "#3E75FF",
-   "light": "#6BCBFF",
-   "dark": "#072554"
+    "primary": "#3E75FF",
+    "light": "#6BCBFF",
+    "dark": "#072554"
   },
   "navigation": [
     {
@@ -39,20 +39,20 @@
       ]
     },
     {
-    "group": "Follow Us",  // Новый раздел
-    "pages": [
-      {
-        "name": "Twitter",
-        "url": "https://x.com/pingnetwork_io",
-        "icon": "twitter"
-      },
-      {
-        "name": "Discord",
-        "url": "https://discord.gg/pingnetwork",
-        "icon": "discord"
-      }
-    ]
-   }  
+      "group": "Follow Us",
+      "pages": [
+        {
+          "name": "Twitter",
+          "url": "https://x.com/pingnetwork_io",
+          "icon": "twitter"
+        },
+        {
+          "name": "Discord",
+          "url": "https://discord.gg/pingnetwork",
+          "icon": "discord"
+        }
+      ]
+    }
   ],
   "footerSocials": [
     {
