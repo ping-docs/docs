@@ -17,7 +17,12 @@
       "pages": [
         "what-is-ping",
         "quickstart",
-        "development"
+        "KeyFeatures",
+        "SecurityandCryptography",
+        "SolutionsandUseCase",
+        "architecture",
+        "PingPoints",
+        "HowtoContribute"
       ]
     },
     {
