@@ -37,15 +37,6 @@
         "Help-Center/FAQ",
         "Help-Center/Support"
       ]
-    },
-    {
-      "group": "Follow Us",
-      "pages": [
-        {
-          "title": "NPM Package",
-          "url": "https://www.npmjs.com/package/mintlify"
-        }
-      ]
     }
   ],
   "footerSocials": [
