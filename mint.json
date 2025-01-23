@@ -11,6 +11,18 @@
     "light": "#6BCBFF",
     "dark": "#072554"
   },
+    "anchors": [
+    {
+      "name": "X (Twitter)",
+      "icon": "twitter",
+      "url": "https://x.com/pingnetwork_io"
+    },
+    {
+      "name": "Discord",
+      "icon": "discord",
+      "url": "https://discord.gg/pingnetwork"
+    }
+  ],
   "navigation": [
     {
       "group": "Introduction",
