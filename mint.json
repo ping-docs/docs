@@ -17,41 +17,30 @@
       "pages": [
         "what-is-ping",
         "quickstart",
-        "KeyFeatures",
-        "SecurityandCryptography",
-        "SolutionsandUseCase",
-        "architecture",
-        "PingPoints",
-        "HowtoContribute"
+        "development"
       ]
     },
     {
       "group": "Overview",
       "pages": [
-        "overview/Architecture",
-        "overview/KeyFeatures",
-        "overview/SolutionsandUseCase",
-        "overview/SecurityandCryptography",
-        "overview/PingPoints",
-        "overview/HowtoContribute"
+        "overview/architecture",
+        "overview/key-features",
+        "overview/solutions-and-use-cases",
+        "overview/security-and-cryptography",
+        "overview/ping-points",
+        "overview/how-to-contribute"
       ]
     },
     {
       "group": "Help Center",
       "pages": [
-        "Help-Center/FAQ",
-        "Help-Center/Support"
+        "help-center/faq",
+        "help-center/support"
       ]
     }
   ],
-  "footerSocials": [
-    {
-      "type": "twitter",
-      "url": "https://x.com/pingnetwork_io"
-    },
-    {
-      "type": "discord",
-      "url": "https://discord.gg/pingnetwork"
-    }
-  ]
+  "footerSocials": {
+    "twitter": "https://x.com/pingnetwork_io",
+    "discord": "https://discord.gg/pingnetwork"
+  }
 }
