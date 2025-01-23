@@ -39,12 +39,14 @@
       ]
     },
     {
-  "group": "Follow Us",
-  ---
-title: "Page that goes to external link"
-url: "https://www.npmjs.com/package/mintlify"
-  ---
-}
+      "group": "Follow Us",
+      "pages": [
+        {
+          "title": "NPM Package",
+          "url": "https://www.npmjs.com/package/mintlify"
+        }
+      ]
+    }
   ],
   "footerSocials": [
     {
