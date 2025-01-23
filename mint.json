@@ -24,23 +24,30 @@
       "group": "Overview",
       "pages": [
         "overview/architecture",
-        "overview/key-features",
-        "overview/solutions-and-use-cases",
-        "overview/security-and-cryptography",
-        "overview/ping-points",
-        "overview/how-to-contribute"
+        "overview/Key Features",
+        "overview/Solutions and Use Case",
+        "overview/Security and Cryptography",
+        "overview/Ping Points",
+        "overview/How to Contribute"
       ]
     },
     {
       "group": "Help Center",
       "pages": [
-        "help-center/faq",
-        "help-center/support"
+        "Help-Center/FAQ",
+        "Help-Center/Support"
       ]
     }
   ],
-  "footerSocials": {
-    "twitter": "https://x.com/pingnetwork_io",
-    "discord": "https://discord.gg/pingnetwork"
-  }
+  "footerSocials": [
+    {
+      "type": "twitter",
+      "url": "https://x.com/pingnetwork_io"
+    },
+    {
+      "type": "discord",
+      "url": "https://discord.gg/pingnetwork"
+    }
+  ]
 }
+
