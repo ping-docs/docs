@@ -40,18 +40,10 @@
     },
     {
   "group": "Follow Us",
-  "pages": [
-    {
-      "name": "Twitter",
-      "url": "https://x.com/pingnetwork_io",
-      "icon": "twitter"
-    },
-    {
-      "name": "Discord",
-      "url": "https://discord.gg/pingnetwork",
-      "icon": "discord"
-    }
-  ]
+  ---
+title: "Page that goes to external link"
+url: "https://www.npmjs.com/package/mintlify"
+  ---
 }
   ],
   "footerSocials": [
