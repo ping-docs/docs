@@ -5,7 +5,7 @@
     "dark": "/logo-full-dark-theme.svg",
     "light": "/logo-full.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon-ping-light.svg",
   "colors": {
     "primary": "#3E75FF",
     "light": "#3E75FF",
@@ -14,7 +14,7 @@
     "anchors": [
     {
       "name": "X (Twitter)",
-      "icon": "x",
+      "icon": "x-twitter",
       "url": "https://x.com/pingnetwork_io"
     },
     {
