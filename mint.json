@@ -28,26 +28,25 @@
       "group": "Introduction",
       "pages": [
         "what-is-ping",
-        "quickstart",
-        "development"
+        "quickstart"
       ]
     },
     {
       "group": "Overview",
       "pages": [
-        "Overview/Architecture",
-        "Overview/KeyFeatures",
-        "Overview/SolutionsandUseCase",
-        "Overview/SecurityandCryptography",
-        "Overview/PingPoints",
-        "Overview/HowtoContribute"
+        "overview/architecture",
+        "overview/key-features",
+        "overview/solutions",
+        "overview/security",
+        "overview/points",
+        "overview/contribute"
       ]
     },
     {
       "group": "Help Center",
       "pages": [
-        "Help-Center/FAQ",
-        "Help-Center/Support"
+        "help/faq",
+        "help/support"
       ]
     }
   ],
