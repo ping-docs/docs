@@ -43,6 +43,12 @@
       ]
     },
     {
+      "group": "Media Kit",
+      "pages": [
+        "mediakit/mediakit",
+      ]
+    },
+    {
       "group": "Help Center",
       "pages": [
         "help/faq",
