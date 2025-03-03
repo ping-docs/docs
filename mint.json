@@ -48,6 +48,13 @@
         "help/faq",
         "help/support"
       ]
+    },
+    {
+      "group": "Endpoints",
+        "openapi": {
+          "source": "/swagger.json",
+          "directory": "api-reference"
+        }
     }
   ],
   "footerSocials": [
