@@ -54,7 +54,7 @@
         "openapi": {
           "source": "/swagger.json",
           "directory": "api-reference"
-        }
+        
     }
   ],
   "footerSocials": [
