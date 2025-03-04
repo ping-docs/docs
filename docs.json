@@ -25,28 +25,51 @@
     }
   ],
   "navigation": {
-    "Introduction": {
-      "pages": ["what-is-ping", "quickstart"]
-    },
-    "Overview": {
-      "pages": [
-        "overview/architecture",
-        "overview/key-features",
-        "overview/solutions",
-        "overview/security",
-        "overview/points",
-        "overview/contribute"
-      ]
-    },
-    "Help Center": {
-      "pages": ["help/faq", "help/support"]
-    },
-    "Endpoints": {
-      "openapi": {
-        "source": "/swagger.json"
+    "tabs": [
+      {
+        "tab": "Documentation",
+        "groups": [
+          {
+            "group": "Introduction",
+            "pages": ["what-is-ping", "quickstart"]
+          },
+          {
+            "group": "Overview",
+            "pages": [
+              "overview/architecture",
+              "overview/key-features",
+              "overview/solutions",
+              "overview/security",
+              "overview/points",
+              "overview/contribute"
+          },
+          {
+            "group": "Help center",
+            "pages": ["help/faq", "help/support"]
+          }
+        ]
+      },
+      {
+        "tab": "API Reference",
+        "groups": [
+          {
+            "group": "API Documentation",
+            "pages": [
+              "api-reference/introduction"
+            ]
+          },
+          {
+            "group": "Endpoint Examples",
+            "pages": [
+              "api-reference/endpoint/get",
+              "api-reference/endpoint/create",
+              "api-reference/endpoint/delete",
+              "api-reference/endpoint/webhook"
+            ]
+          }
+        ]
       }
-    }
-  },
+    ],
   "footerSocials": [
     {
       "type": "twitter",
