@@ -40,9 +40,12 @@
       {
         "tab": "API for businesses",
          "groups": [
+           {
+              "group": "Introduction",
+              "pages": ["Clients/API-overview"]
+            },
             {
               "group": "Endpoints",
-              "pages": ["Clients/API-overview"],
               "openapi": {
                 "source": "/swagger.json",
                 "directory": "api-reference"
