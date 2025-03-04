@@ -12,18 +12,6 @@
     "light": "#3E75FF",
     "dark": "#3E75FF"
   },
-    "anchors": [
-    {
-      "name": "X (Twitter)",
-      "icon": "x-twitter",
-      "url": "https://x.com/pingnetwork_io"
-    },
-    {
-      "name": "Discord",
-      "icon": "discord",
-      "url": "https://discord.gg/pingnetwork"
-    }
-  ],
   "navigation": {
     "tabs": [
       {
@@ -41,7 +29,7 @@
               "overview/solutions",
               "overview/security",
               "overview/points",
-              "overview/contribute"
+              "overview/contribute"]
           },
           {
             "group": "Help center",
@@ -70,6 +58,19 @@
         ]
       }
     ],
+    "anchors": [
+    {
+      "name": "X (Twitter)",
+      "icon": "x-twitter",
+      "url": "https://x.com/pingnetwork_io"
+    },
+    {
+      "name": "Discord",
+      "icon": "discord",
+      "url": "https://discord.gg/pingnetwork"
+    }
+    ]
+  },
   "footerSocials": [
     {
       "type": "twitter",
