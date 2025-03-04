@@ -34,24 +34,19 @@
           {
             "group": "Help center",
             "pages": ["help/faq", "help/support"]
-          }
-        ]
-      },
-      {
-        "tab": "API for businesses",
-         "groups": [
+          },
            {
-              "group": "Introduction",
+              "group": "For businesses",
               "pages": ["Clients/API-overview"]
             },
             {
-              "group": "Endpoints",
+              "group": "API Endpoints",
               "openapi": {
                 "source": "/swagger.json",
                 "directory": "api-reference"
               }
             }
-          ]
+        ]
       }
     ],
     "anchors": [
