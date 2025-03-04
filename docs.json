@@ -39,7 +39,7 @@
       },
       {
         "tab": "API Reference",
-        "openapi": "/swagger.json"
+        "openapi": "https://raw.githubusercontent.com/ping-docs/docs/refs/heads/main/swagger.json"
       }
     ],
     "anchors": [
