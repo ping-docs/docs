@@ -39,7 +39,19 @@
       },
       {
         "tab": "API Reference",
-        "openapi": "/swagger.json"
+         "groups": [
+           {
+              "group": "Introduction",
+              "pages": ["Clients/API-overview"]
+            },
+            {
+              "group": "Endpoints",
+              "openapi": {
+                "source": "/swagger.json",
+                "directory": "api-reference"
+              }
+            }
+          ]
       }
     ],
     "anchors": [
