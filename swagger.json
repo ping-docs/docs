@@ -23,19 +23,6 @@
         ],
         "summary": "List available network zones",
         "description": "Returns a list of all available network zones",
-        "parameters": [
-          {
-            "name": "include",
-            "in": "query",
-            "description": "Include active node count for each zone",
-            "schema": {
-              "type": "boolean",
-              "enum": [
-                false
-              ]
-            }
-          }
-        ],
         "responses": {
           "200": {
             "description": "List of zones retrieved successfully",
@@ -1144,7 +1131,8 @@
       "zones.Zone": {
         "required": [
           "code",
-          "name"
+          "name",
+          "has_active_nodes"
         ],
         "type": "object",
         "properties": {
@@ -1156,9 +1144,9 @@
             "type": "string",
             "description": "Unique zone code"
           },
-          "active_nodes": {
-            "type": "integer",
-            "description": "Number of active nodes in this zone (included when ?include=node_count)"
+          "has_active_nodes": {
+            "type": "boolean",
+            "description": "Indicates whether there are any active nodes in this zone"
           }
         }
       },
