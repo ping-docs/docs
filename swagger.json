@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://api.pingnetwork.io/customer/v1"
+      "url": "https://api.pingnetwork.io/customer/v2"
     }
   ],
   "security": [
