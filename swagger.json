@@ -998,6 +998,10 @@
           "zone": {
             "type": "string",
             "description": "Zone code (matching the 'code' field from the /zones endpoint)"
+          },
+          "reusable": {
+            "type": "boolean",
+            "description": "Whether the session can be reused for multiple connections"
           }
         }
       },
@@ -1018,6 +1022,14 @@
             "type": "object",
             "properties": {},
             "description": "Connection configuration details"
+          },
+          "configuration_link": {
+            "type": "string",
+            "description": "VLESS configuration link"
+          },
+          "reusable": {
+            "type": "boolean",
+            "description": "Whether the session can be reused for multiple connections"
           },
           "created_at": {
             "type": "string",
