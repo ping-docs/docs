@@ -1095,9 +1095,10 @@
       },
       "sessions.SessionEvent": {
         "required": [
-          "client_id",
+          "id",
           "event_type",
-          "session_id"
+          "session_id",
+          "created_at"
         ],
         "type": "object",
         "properties": {
@@ -1109,10 +1110,6 @@
           "session_id": {
             "type": "string",
             "description": "Unique session identifier"
-          },
-          "client_id": {
-            "type": "string",
-            "description": "Client identifier"
           },
           "event_type": {
             "$ref": "#/components/schemas/sessions.EventType"
